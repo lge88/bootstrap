@@ -6,7 +6,7 @@
   "styles": ["docs/assets/css/bootstrap.css"],
   "main": "docs/assets/js/bootstrap.js",
   "dependencies": {
-    "lge88/jquery": "~1.8.0"
+    "lge88/jquery": "*"
   },
   "upstream": "git://github.com/twitter/bootstrap.git"
 }
