@@ -3,7 +3,7 @@
   "repo": "lge88/bootstrap",
   "version": "2.3.1",
   "scripts": ["docs/assets/js/bootstrap.js"],
-  "styles": ["docs/assets/css/bootstrap.css", "doc/assets/css/bootstrap-responsive.css"],
+  "styles": ["docs/assets/css/bootstrap.css", "docs/assets/css/bootstrap-responsive.css"],
   "main": "docs/assets/js/bootstrap.js",
   "dependencies": {
     "lge88/jquery": "*"
